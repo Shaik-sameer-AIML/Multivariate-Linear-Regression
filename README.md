@@ -7,19 +7,19 @@ To write a python program to implement multivariate linear regression and predic
 ## Algorithm:
 ### Step1
 <br>
-
+Import pandas as pd.
 ### Step2
 <br>
-
+Import Linear model from sklearn
 ### Step3
 <br>
-
+Read the file cars.csv.
 ### Step4
 <br>
-
+Assign the values for x and y as required and create the linear regression model.
 ### Step5
 <br>
-
+Display the result.
 ## Program:
 ```python
 # To write a python program to implement multivariate linear regression and predict the output.
@@ -45,7 +45,7 @@ print("Predicted CO@ for the corresponding weight and volume",predictedCO2)
 ```
 ## Output:
 
-![output](?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Multivariate-Linear-Regression/blob/master/!.JPG?raw=true)
 
 
 <br>
